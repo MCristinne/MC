@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Mayra - @MCristinne;
+- 👀 I’m interested in becoming a programmer;
+- 🌱 I’m currently learning JavaScript;
+- 💞️ I’m looking to collaborate on projects that can help me get some experience in this field so I can change my career;
+- 📫 You can reach me in my e-mail account mayracristinne.souza@gmail.com ;
